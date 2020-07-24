@@ -109,7 +109,7 @@ button {
 	outline: none;
 }
 button .botao:after {
-  content: '\00bb';
+  content: '\25ba';
   opacity: 0;
   margin-right: -20px;
   transition: 0.5s;
